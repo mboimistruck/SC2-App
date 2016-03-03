@@ -1,0 +1,277 @@
+Event: WCS Circuit Championship	 Time: 00:00
+Event: WCS Regional Challengers	 Time: 01:00
+Event: DingIt	 Time: 06:00
+Event: Starcraft League	 Time: 11:00
+Event: Go4SC2	 Time: 13:00
+Event: SC2 Improve Team League	 Time: 13:00
+Event: PSISTORM Gaming Misc	 Time: 16:00
+Event: GnomeJon Cup	 Time: 18:00
+Event: Showmatch	 Time: 19:00
+Event: SC2 Americas Open	 Time: 23:00
+Day: Sunday - 30/Jan
+
+Event: Road To Masters	 Time: 01:00
+Event: LOTUS	 Time: 01:00
+Event: DuSt League	 Time: 02:00
+Event: WCS Regional Challengers	 Time: 03:00
+Event: IEM	 Time: 03:00
+Event: Proleague	 Time: 09:00
+Event: Proleague	 Time: 10:30
+Event: Kung Fu Cup	 Time: 11:00
+Event: TING	 Time: 18:00
+Event: Copa América	 Time: 22:00
+Day: Monday - 31/Jan
+
+Event: ASL	 Time: 01:45
+Event: IEM	 Time: 03:00
+Event: Proleague	 Time: 09:00
+Event: Proleague	 Time: 10:25
+Event: Kung Fu Cup	 Time: 11:00
+Event: CybBet Race Wars	 Time: 15:00
+Event: SC2 Improve Team League	 Time: 17:00
+Event: Corsair Cup	 Time: 18:00
+Event: The Gauntlet	 Time: 22:00
+Day: Tuesday - 01/Feb
+
+Event: GSL Code A	 Time: 09:30
+Event: Kung Fu Cup	 Time: 11:00
+Event: WCS Circuit Championship	 Time: 17:00
+Event: Psy-eSports-League	 Time: 19:00
+Event: Copa América	 Time: 22:00
+Day: Wednesday - 02/Feb
+
+Event: WCS Circuit Championship	 Time: 00:00
+Event: Road To Masters	 Time: 01:00
+Event: StarCraft II StarLeague	 Time: 09:00
+Event: TING	 Time: 13:00
+Event: WCS Circuit Championship	 Time: 17:00
+Day: Thursday - 03/Feb
+
+Event: WCS Circuit Championship	 Time: 00:00
+Event: Road To Masters	 Time: 01:00
+Event: Rival StarCraft II League	 Time: 02:00
+Event: GSL Code A	 Time: 09:30
+Event: Kung Fu Cup	 Time: 11:00
+Event: Assembly	 Time: 14:00
+Event: CybBet Race Wars	 Time: 15:00
+Event: SC2 Improve Team League	 Time: 17:00
+Event: TING	 Time: 23:00
+Day: Friday - 04/Feb
+
+Event: Rival StarCraft II League	 Time: 01:00
+Event: ASL	 Time: 01:00
+Event: Assembly	 Time: 10:00
+Event: Kings of the Craft	 Time: 10:00
+Event: Fantasy Expo Challenge	 Time: 11:00
+Event: OlimoLeague	 Time: 13:00
+Event: WCS Circuit Championship	 Time: 17:00
+Event: Rival StarCraft II League	 Time: 19:00
+Event: Filthy NA Cup	 Time: 20:00
+Day: Saturday - 05/Feb
+
+Event: WCS Circuit Championship	 Time: 00:00
+Event: Rival StarCraft II League	 Time: 03:00
+Event: OSC	 Time: 05:00
+Event: Kings of the Craft	 Time: 10:00
+Event: Go4SC2	 Time: 13:00
+Event: SC2 Improve Team League	 Time: 15:00
+Event: CybBet Race Wars	 Time: 15:00
+Event: Fantasy Expo Challenge	 Time: 18:00
+Event: SC2 Americas Open	 Time: 23:00
+Day: Sunday - 06/Feb
+
+Event: Ladder Heroes	 Time: 00:00
+Event: TING	 Time: 18:00
+Event: Copa América	 Time: 22:00
+Event: ASL	 Time: 23:45
+Day: Monday - 07/Feb
+
+Event: Showmatch	 Time: 16:00
+Event: Corsair Cup	 Time: 18:00
+Event: Copa América	 Time: 22:00
+Day: Tuesday - 08/Feb
+
+Event: CybBet Race Wars	 Time: 14:00
+Event: SC2 Improve Team League	 Time: 17:00
+Event: Psy-eSports-League	 Time: 19:00
+Event: SC2 Improve Team League	 Time: 19:00
+Event: Copa América	 Time: 22:00
+Event: Cheesadelphia	 Time: 23:30
+Day: Wednesday - 09/Feb
+
+Event: Road To Masters	 Time: 01:00
+Event: StarCraft II StarLeague	 Time: 09:00
+Event: TING	 Time: 13:00
+Event: ASL	 Time: 16:50
+Event: SC2 Improve Team League	 Time: 17:00
+Event: Go4SC2	 Time: 18:00
+Event: Copa América	 Time: 22:00
+Day: Thursday - 10/Feb
+
+Event: Road To Masters	 Time: 01:00
+Event: Rival StarCraft II League	 Time: 01:00
+Event: CybBet Race Wars	 Time: 15:00
+Event: SC2 Improve Team League	 Time: 15:00
+Event: TING	 Time: 23:00
+Day: Friday - 11/Feb
+
+Event: WCS Regional Challengers	 Time: 01:00
+Event: Rival StarCraft II League	 Time: 01:00
+Event: DingIt	 Time: 06:00
+Event: OlimoLeague	 Time: 13:00
+Event: WCS Regional Challengers	 Time: 16:00
+Event: Filthy NA Cup	 Time: 20:00
+Day: Saturday - 12/Feb
+
+Event: WCS Regional Challengers	 Time: 00:00
+Event: Rival StarCraft II League	 Time: 01:00
+Event: OSC	 Time: 02:00
+Event: WCS Regional Challengers	 Time: 02:00
+Event: DingIt	 Time: 06:00
+Event: Go4SC2	 Time: 13:00
+Event: WCS Regional Challengers	 Time: 16:00
+Event: SC2 Americas Open	 Time: 23:00
+Day: Sunday - 13/Feb
+
+Event: WCS Regional Challengers	 Time: 00:00
+Event: ASL	 Time: 00:45
+Event: Rival StarCraft II League	 Time: 01:00
+Event: DuSt League	 Time: 02:00
+Event: Proleague	 Time: 09:00
+Event: Proleague	 Time: 10:25
+Event: BaseTradeTV Misc.	 Time: 18:00
+Event: Acer Pro Challenge	 Time: 18:00
+Event: SC2 Improve Team League	 Time: 20:00
+Day: Monday - 14/Feb
+
+Event: Tespa Collegiate Series	 Time: 01:00
+Event: Proleague	 Time: 09:00
+Event: Proleague	 Time: 11:00
+Event: Corsair Cup	 Time: 13:00
+Event: Acer Pro Challenge	 Time: 18:00
+Event: Go4SC2	 Time: 18:00
+Event: TING	 Time: 21:00
+Event: SC2 Improve Team League	 Time: 21:00
+Event: Copa América	 Time: 22:00
+Day: Tuesday - 15/Feb
+
+Event: Tespa Collegiate Series	 Time: 01:00
+Event: GSL Code S	 Time: 09:30
+Event: TING	 Time: 18:00
+Event: Fantasy Expo Challenge	 Time: 18:00
+Event: Acer Pro Challenge	 Time: 18:00
+Event: Underdogs	 Time: 18:00
+Event: Psy-eSports-League	 Time: 19:00
+Event: The Gauntlet	 Time: 20:00
+Event: Copa América	 Time: 22:00
+Day: Wednesday - 16/Feb
+
+Event: Road To Masters	 Time: 01:00
+Event: StarCraft II StarLeague	 Time: 09:00
+Event: ASL	 Time: 17:15
+Event: Acer Pro Challenge	 Time: 18:00
+Event: Go4SC2	 Time: 18:00
+Event: TING	 Time: 23:00
+Day: Thursday - 17/Feb
+
+Event: Rival StarCraft II League	 Time: 01:00
+Event: Road To Masters	 Time: 01:00
+Event: GSL Code S	 Time: 09:30
+Event: TING	 Time: 12:00
+Event: Epic.LAN	 Time: 12:00
+Event: CybBet Race Wars	 Time: 15:00
+Event: Fantasy Expo Challenge	 Time: 18:00
+Day: Friday - 18/Feb
+
+Event: Rival StarCraft II League	 Time: 01:00
+Event: ESL ANZ Cup	 Time: 01:00
+Event: DingIt	 Time: 06:00
+Event: Epic.LAN	 Time: 11:10
+Event: OlimoLeague	 Time: 13:00
+Event: WCS Circuit Championship	 Time: 18:00
+Event: Filthy NA Cup	 Time: 20:00
+Event: ASL	 Time: 22:45
+Event: WCS Circuit Championship	 Time: 23:05
+Day: Saturday - 19/Feb
+
+Event: Rival StarCraft II League	 Time: 01:00
+Event: DingIt	 Time: 06:00
+Event: Go4SC2	 Time: 13:00
+Event: WCS Circuit Championship	 Time: 17:00
+Event: SC2 Improve Team League	 Time: 19:00
+Event: ASL	 Time: 22:45
+Event: SC2 Americas Open	 Time: 23:00
+Day: Sunday - 20/Feb
+
+Event: WCS Circuit Championship	 Time: 00:00
+Event: Rival StarCraft II League	 Time: 01:00
+Event: OSC	 Time: 02:00
+Event: DuSt League	 Time: 02:00
+Event: Proleague	 Time: 09:00
+Event: Proleague	 Time: 10:30
+Event: The Gauntlet	 Time: 16:00
+Event: WCS Circuit Championship	 Time: 17:00
+Event: TING	 Time: 18:00
+Event: Underdogs	 Time: 18:00
+Day: Monday - 21/Feb
+
+Event: Road To Masters	 Time: 01:00
+Event: Proleague	 Time: 09:00
+Event: Proleague	 Time: 10:50
+Event: TING	 Time: 13:00
+Event: Acer Pro Challenge	 Time: 18:00
+Event: SC2 Improve Team League	 Time: 19:00
+Day: Tuesday - 22/Feb
+
+Event: Afreeca Star Streak	 Time: 04:00
+Event: GSL Code S	 Time: 09:30
+Event: Acer Pro Challenge	 Time: 18:00
+Event: TING	 Time: 18:00
+Event: Psy-eSports-League	 Time: 19:00
+Day: Wednesday - 23/Feb
+
+Event: Road To Masters	 Time: 01:00
+Event: StarCraft II StarLeague	 Time: 09:00
+Event: SC2 Improve Team League	 Time: 17:00
+Event: ASL	 Time: 17:00
+Event: Corsair Cup	 Time: 18:00
+Event: Go4SC2	 Time: 18:00
+Day: Thursday - 24/Feb
+
+Event: Rival StarCraft II League	 Time: 01:00
+Event: Road To Masters	 Time: 01:00
+Event: GSL Code S	 Time: 09:30
+Event: SC2 Improve Team League	 Time: 18:00
+Event: Showmatch	 Time: 21:00
+Event: TING	 Time: 23:00
+Day: Friday - 25/Feb
+
+Event: Rival StarCraft II League	 Time: 01:00
+Event: OSC	 Time: 02:00
+Event: OlimoLeague	 Time: 13:00
+Event: SC2 Improve Team League	 Time: 15:00
+Event: Fantasy Expo Challenge	 Time: 15:00
+Event: ESChamp Toronto	 Time: 17:00
+Event: Filthy NA Cup	 Time: 20:00
+Day: Saturday - 26/Feb
+
+Event: Ladder Heroes	 Time: 00:00
+Event: Rival StarCraft II League	 Time: 01:00
+Event: Go4SC2	 Time: 13:00
+Event: Fantasy Expo Challenge	 Time: 18:00
+Event: SC2 Americas Open	 Time: 23:00
+Day: Sunday - 27/Feb
+
+Event: Rival StarCraft II League	 Time: 01:00
+Event: The Gauntlet	 Time: 18:00
+Day: Monday - 28/Feb
+
+Day: Tuesday - 29/Feb
+
+Day: Wednesday - 01/Mar
+
+Event: StarCraft II StarLeague	 Time: 09:00
+Day: Thursday - 02/Mar
+
+Day: Friday - 03/Mar
+
