@@ -1,3 +1,3 @@
 @echo off
-java SCApp
+java Main
 pause

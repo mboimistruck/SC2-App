@@ -1,7 +1,7 @@
 EST
 CET
 KST
-February 2016. All times are GMT (current time: 2:32 am).
+February 2016. All times are GMT (current time: 4:29 am).
 Filter by:
 Saturday
 WCS Circuit Championship
@@ -825,25 +825,33 @@ POX(dk) vs NoRegreT
 Beastyqt vs JonSnow
 NoRegreT vs JonSnow
 POX(dk) vs Beastyqt
-TBD vs TBD
+NoRegreT vs Beastyqt
 Road To Masters
 01:00
 Red Wolves vs Rebirth eSports
+Afreeca Star Streak
+04:00
+Arthur vs Amateur
+Arthur vs Amateur
+Arthur vs EJK
+Arthur vs Amateur
 GSL Code S
 09:30
 Curious vs Forte
 Stork vs Cure
+Curious vs Cure
+Forte vs Stork
+Curious vs Stork
 SC2 Improve Team League
 18:00
 IsIMBA vs Nuit Blanche
 ROOT Gaming vs Invasion eSport
-Showmatch
-21:00
-desRow vs MorroW
 TING
 23:00
-Scarlett vs viOLet
 Polt vs Kelazhur
+Scarlett vs viOLet
+Polt vs TBD
+Kelazhur vs TBD
 Friday
 Rival StarCraft II League
 01:00
@@ -857,43 +865,179 @@ GuMiho vs Patience
 Hurricane vs horror
 LabyRinth vs DemiLove
 Soulkey vs Blaze
-SC2 Improve Team League
-15:00
+LabyRinth vs Soulkey
+GuMiho vs horror
+Soulkey vs GuMiho
 Fantasy Expo Challenge
 15:00
 ESChamp Toronto
 17:00
+SC2 Improve Team League
+19:00
+Euronics Gaming vs Flipsid3 Tactics
 Filthy NA Cup
 20:00
+Jason vs JimRising
+Cham vs EJK
+Jason vs Cham
 Saturday
 Ladder Heroes
 00:00
+Jason vs Polt
+JonSnow vs EJK
+Kelazhur vs MaSa
+PandaBearMe vs Cham
+Neeb vs Kelazhur
 Rival StarCraft II League
 01:00
 DaNa vs WPz
 Tefel vs Monty
 Go4SC2
 13:00
+Snute vs Tefel
+SC2 Improve Team League
+16:00
+LickyPiddy vs TBD
 Fantasy Expo Challenge
 18:00
+Underdogs
+18:00
+TING
+18:00
+Elazer vs Snute
+Naniwa vs Bunny
+Snute vs Bunny
+Elazer vs Naniwa
+Snute vs Elazer
 SC2 Americas Open
 23:00
 Sunday
 Rival StarCraft II League
 01:00
 Namshar vs Socke
-Dolan vs PiLiPiLi
-The Gauntlet
+Dolan vs ZeRgWaVe
+Socke vs Dolan
+Namshar vs ZeRgWaVe
+Socke vs Namshar
+BaseTradeTV Misc.
+02:00
+DuSt League
+02:00
+Proleague
+09:00
+Samsung Galaxy vs SK Telecom T1
+Proleague
+10:30
+CJ Entus vs Jin Air Greenwings
+BaseTradeTV Misc.
 18:00
+Underdogs
+18:00
+The Gauntlet
+19:45
+Scarlett vs Beastyqt
+Bails vs intense
+Scarlett vs intense
+Beastyqt vs Bails
+Scarlett vs Beastyqt
+Bails vs Scarlett
 Monday
+Tespa Collegiate Series
+01:00
+SC2 Improve Team League
+18:00
+Cascade vs Romandy Gaming
 Tuesday
+Tespa Collegiate Series
+01:00
+Afreeca Star Streak
+04:00
+Amateur vs Amateur2
+Amateur vs Amateur2
+Amateur vs Amateur2
+Amateur vs Amateur2
+Amateur vs Amateur2
+Amateur vs Amateur2
+Amateur vs Amateur2
+GSL Code S
+09:30
+TY vs DeParture
+Trap vs Super
+TY vs Trap
+DeParture vs Super
+Trap vs Super
+IEM
+11:00
+Polt vs Lambo
+PtitDrogo vs Dayshi
+Serral vs FireCake
+Bunny vs Has
+MaNa vs PiLiPiLi
+HuK vs PiG
+ShoWTimE vs Nerchio
+Lilbow vs SortOf
+puCK vs MarineLorD
+XiGua vs viOLet
+MaSa vs Harstem
+MajOr vs Snute
+Happy vs Hydra
+Kelazhur vs Neeb
+Psy-eSports-League
+19:00
 Wednesday
+Road To Masters
+01:00
+Ordo Equitum vs Try Again
+Shot eSports vs Imba Force
+BaseTradeTV Misc.
+02:00
+Bails vs Gamja
+JimRising vs Bails
 StarCraft II StarLeague
 09:00
 aLive vs ByuN
 Patience vs Classic
+IEM
+11:20
+Bly vs Elazer
+iAsonu vs TLO
+Polt vs Dayshi
+FireCake vs Has
+MaNa vs HuK
+Nerchio vs SortOf
+MarineLorD vs viOLet
+Go4SC2
+18:00
 Thursday
+Rival StarCraft II League
+00:00
+Monty vs Beastyqt
+JonSnow vs Tefel
+PandaBearMe vs Namshar
+Dolan vs Semper
+Road To Masters
+01:00
+Red Wolves vs Sons Of Light
+Afreeca Star Streak
+04:00
+GSL Code S
+09:30
+Solar vs SpeeD
+Creator vs Classic
+IEM
+11:30
+MaSa vs Snute
+Hydra vs Neeb
+Elazer vs iAsonu
+Polt vs FireCake
+HuK vs Nerchio
+viOLet vs TBD
+TBD vs TBD
 Friday
+OlimoLeague
+13:00
+Filthy NA Cup
+20:00
 Selected Day
 23
 | | | | | Original banner artwork: The contents of this webpage are copyright © 2016 Team Liquid. All Rights Reserved.

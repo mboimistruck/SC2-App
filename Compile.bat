@@ -1,3 +1,5 @@
 @echo off
-javac SCApp.java
+javac GrabData.java
+javac SortData.java
+javac Main.java
 pause
