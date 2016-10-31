@@ -8,7 +8,7 @@ Event: PSISTORM Gaming Misc	 Time: 16:00
 Event: GnomeJon Cup	 Time: 18:00
 Event: Showmatch	 Time: 19:00
 Event: SC2 Americas Open	 Time: 23:00
-Day: Sunday - 28/Feb
+Day: Sunday - 30/Jun
 
 Event: Road To Masters	 Time: 01:00
 Event: LOTUS	 Time: 01:00
@@ -20,7 +20,7 @@ Event: Proleague	 Time: 10:30
 Event: Kung Fu Cup	 Time: 11:00
 Event: TING	 Time: 18:00
 Event: Copa América	 Time: 22:00
-Day: Monday - 29/Feb
+Day: Monday - 01/Jul
 
 Event: ASL	 Time: 01:45
 Event: IEM	 Time: 03:00
@@ -31,21 +31,21 @@ Event: CybBet Race Wars	 Time: 15:00
 Event: SC2 Improve Team League	 Time: 17:00
 Event: Corsair Cup	 Time: 18:00
 Event: The Gauntlet	 Time: 22:00
-Day: Tuesday - 01/Mar
+Day: Tuesday - 02/Jul
 
 Event: GSL Code A	 Time: 09:30
 Event: Kung Fu Cup	 Time: 11:00
 Event: WCS Circuit Championship	 Time: 17:00
 Event: Psy-eSports-League	 Time: 19:00
 Event: Copa América	 Time: 22:00
-Day: Wednesday - 02/Mar
+Day: Wednesday - 03/Jul
 
 Event: WCS Circuit Championship	 Time: 00:00
 Event: Road To Masters	 Time: 01:00
 Event: StarCraft II StarLeague	 Time: 09:00
 Event: TING	 Time: 13:00
 Event: WCS Circuit Championship	 Time: 17:00
-Day: Thursday - 03/Mar
+Day: Thursday - 04/Jul
 
 Event: WCS Circuit Championship	 Time: 00:00
 Event: Road To Masters	 Time: 01:00
@@ -56,7 +56,7 @@ Event: Assembly	 Time: 14:00
 Event: CybBet Race Wars	 Time: 15:00
 Event: SC2 Improve Team League	 Time: 17:00
 Event: TING	 Time: 23:00
-Day: Friday - 04/Mar
+Day: Friday - 05/Jul
 
 Event: Rival StarCraft II League	 Time: 01:00
 Event: ASL	 Time: 01:00
@@ -67,7 +67,7 @@ Event: OlimoLeague	 Time: 13:00
 Event: WCS Circuit Championship	 Time: 17:00
 Event: Rival StarCraft II League	 Time: 19:00
 Event: Filthy NA Cup	 Time: 20:00
-Day: Saturday - 05/Mar
+Day: Saturday - 06/Jul
 
 Event: WCS Circuit Championship	 Time: 00:00
 Event: Rival StarCraft II League	 Time: 03:00
@@ -78,18 +78,18 @@ Event: SC2 Improve Team League	 Time: 15:00
 Event: CybBet Race Wars	 Time: 15:00
 Event: Fantasy Expo Challenge	 Time: 18:00
 Event: SC2 Americas Open	 Time: 23:00
-Day: Sunday - 06/Mar
+Day: Sunday - 07/Jul
 
 Event: Ladder Heroes	 Time: 00:00
 Event: TING	 Time: 18:00
 Event: Copa América	 Time: 22:00
 Event: ASL	 Time: 23:45
-Day: Monday - 07/Mar
+Day: Monday - 08/Jul
 
 Event: Showmatch	 Time: 16:00
 Event: Corsair Cup	 Time: 18:00
 Event: Copa América	 Time: 22:00
-Day: Tuesday - 08/Mar
+Day: Tuesday - 09/Jul
 
 Event: CybBet Race Wars	 Time: 14:00
 Event: SC2 Improve Team League	 Time: 17:00
@@ -97,7 +97,7 @@ Event: Psy-eSports-League	 Time: 19:00
 Event: SC2 Improve Team League	 Time: 19:00
 Event: Copa América	 Time: 22:00
 Event: Cheesadelphia	 Time: 23:30
-Day: Wednesday - 09/Mar
+Day: Wednesday - 10/Jul
 
 Event: Road To Masters	 Time: 01:00
 Event: StarCraft II StarLeague	 Time: 09:00
@@ -106,14 +106,14 @@ Event: ASL	 Time: 16:50
 Event: SC2 Improve Team League	 Time: 17:00
 Event: Go4SC2	 Time: 18:00
 Event: Copa América	 Time: 22:00
-Day: Thursday - 10/Mar
+Day: Thursday - 11/Jul
 
 Event: Road To Masters	 Time: 01:00
 Event: Rival StarCraft II League	 Time: 01:00
 Event: CybBet Race Wars	 Time: 15:00
 Event: SC2 Improve Team League	 Time: 15:00
 Event: TING	 Time: 23:00
-Day: Friday - 11/Mar
+Day: Friday - 12/Jul
 
 Event: WCS Regional Challengers	 Time: 01:00
 Event: Rival StarCraft II League	 Time: 01:00
@@ -121,7 +121,7 @@ Event: DingIt	 Time: 06:00
 Event: OlimoLeague	 Time: 13:00
 Event: WCS Regional Challengers	 Time: 16:00
 Event: Filthy NA Cup	 Time: 20:00
-Day: Saturday - 12/Mar
+Day: Saturday - 13/Jul
 
 Event: WCS Regional Challengers	 Time: 00:00
 Event: Rival StarCraft II League	 Time: 01:00
@@ -131,7 +131,7 @@ Event: DingIt	 Time: 06:00
 Event: Go4SC2	 Time: 13:00
 Event: WCS Regional Challengers	 Time: 16:00
 Event: SC2 Americas Open	 Time: 23:00
-Day: Sunday - 14/Mar
+Day: Sunday - 14/Jul
 
 Event: WCS Regional Challengers	 Time: 00:00
 Event: ASL	 Time: 00:45
@@ -142,7 +142,7 @@ Event: Proleague	 Time: 10:25
 Event: BaseTradeTV Misc.	 Time: 18:00
 Event: Acer Pro Challenge	 Time: 18:00
 Event: SC2 Improve Team League	 Time: 20:00
-Day: Monday - 15/Mar
+Day: Monday - 15/Jul
 
 Event: Tespa Collegiate Series	 Time: 01:00
 Event: Proleague	 Time: 09:00
@@ -153,7 +153,7 @@ Event: Go4SC2	 Time: 18:00
 Event: TING	 Time: 21:00
 Event: SC2 Improve Team League	 Time: 21:00
 Event: Copa América	 Time: 22:00
-Day: Tuesday - 16/Mar
+Day: Tuesday - 16/Jul
 
 Event: Tespa Collegiate Series	 Time: 01:00
 Event: GSL Code S	 Time: 09:30
@@ -164,7 +164,7 @@ Event: Underdogs	 Time: 18:00
 Event: Psy-eSports-League	 Time: 19:00
 Event: The Gauntlet	 Time: 20:00
 Event: Copa América	 Time: 22:00
-Day: Wednesday - 17/Mar
+Day: Wednesday - 17/Jul
 
 Event: Road To Masters	 Time: 01:00
 Event: StarCraft II StarLeague	 Time: 09:00
@@ -172,7 +172,7 @@ Event: ASL	 Time: 17:15
 Event: Acer Pro Challenge	 Time: 18:00
 Event: Go4SC2	 Time: 18:00
 Event: TING	 Time: 23:00
-Day: Thursday - 18/Mar
+Day: Thursday - 18/Jul
 
 Event: Rival StarCraft II League	 Time: 01:00
 Event: Road To Masters	 Time: 01:00
@@ -181,7 +181,7 @@ Event: TING	 Time: 12:00
 Event: Epic.LAN	 Time: 12:00
 Event: CybBet Race Wars	 Time: 15:00
 Event: Fantasy Expo Challenge	 Time: 18:00
-Day: Friday - 19/Mar
+Day: Friday - 19/Jul
 
 Event: Rival StarCraft II League	 Time: 01:00
 Event: ESL ANZ Cup	 Time: 01:00
@@ -192,7 +192,7 @@ Event: WCS Circuit Championship	 Time: 18:00
 Event: Filthy NA Cup	 Time: 20:00
 Event: ASL	 Time: 22:45
 Event: WCS Circuit Championship	 Time: 23:05
-Day: Saturday - 20/Mar
+Day: Saturday - 20/Jul
 
 Event: Rival StarCraft II League	 Time: 01:00
 Event: DingIt	 Time: 06:00
@@ -201,7 +201,7 @@ Event: WCS Circuit Championship	 Time: 17:00
 Event: SC2 Improve Team League	 Time: 19:00
 Event: ASL	 Time: 22:45
 Event: SC2 Americas Open	 Time: 23:00
-Day: Sunday - 21/Mar
+Day: Sunday - 21/Jul
 
 Event: WCS Circuit Championship	 Time: 00:00
 Event: Rival StarCraft II League	 Time: 01:00
@@ -213,7 +213,7 @@ Event: The Gauntlet	 Time: 16:00
 Event: WCS Circuit Championship	 Time: 17:00
 Event: TING	 Time: 18:00
 Event: Underdogs	 Time: 18:00
-Day: Monday - 22/Mar
+Day: Monday - 22/Jul
 
 Event: Road To Masters	 Time: 01:00
 Event: Proleague	 Time: 09:00
@@ -221,14 +221,14 @@ Event: Proleague	 Time: 10:50
 Event: TING	 Time: 13:00
 Event: Acer Pro Challenge	 Time: 18:00
 Event: SC2 Improve Team League	 Time: 19:00
-Day: Tuesday - 23/Mar
+Day: Tuesday - 23/Jul
 
 Event: Afreeca Star Streak	 Time: 04:00
 Event: GSL Code S	 Time: 09:30
 Event: Acer Pro Challenge	 Time: 18:00
 Event: TING	 Time: 18:00
 Event: Psy-eSports-League	 Time: 19:00
-Day: Wednesday - 24/Mar
+Day: Wednesday - 24/Jul
 
 Event: Road To Masters	 Time: 01:00
 Event: StarCraft II StarLeague	 Time: 09:00
@@ -236,7 +236,7 @@ Event: SC2 Improve Team League	 Time: 17:00
 Event: ASL	 Time: 17:00
 Event: Corsair Cup	 Time: 18:00
 Event: Go4SC2	 Time: 18:00
-Day: Thursday - 25/Mar
+Day: Thursday - 25/Jul
 
 Event: Rival StarCraft II League	 Time: 01:00
 Event: Road To Masters	 Time: 01:00
@@ -244,7 +244,7 @@ Event: Afreeca Star Streak	 Time: 04:00
 Event: GSL Code S	 Time: 09:30
 Event: SC2 Improve Team League	 Time: 18:00
 Event: TING	 Time: 23:00
-Day: Friday - 26/Mar
+Day: Friday - 26/Jul
 
 Event: Rival StarCraft II League	 Time: 01:00
 Event: OSC	 Time: 02:00
@@ -253,7 +253,7 @@ Event: Fantasy Expo Challenge	 Time: 15:00
 Event: ESChamp Toronto	 Time: 17:00
 Event: SC2 Improve Team League	 Time: 19:00
 Event: Filthy NA Cup	 Time: 20:00
-Day: Saturday - 27/Mar
+Day: Saturday - 27/Jul
 
 Event: Ladder Heroes	 Time: 00:00
 Event: Rival StarCraft II League	 Time: 01:00
@@ -263,7 +263,7 @@ Event: Fantasy Expo Challenge	 Time: 18:00
 Event: Underdogs	 Time: 18:00
 Event: TING	 Time: 18:00
 Event: SC2 Americas Open	 Time: 23:00
-Day: Sunday - 28/Mar
+Day: Sunday - 28/Jul
 
 Event: Rival StarCraft II League	 Time: 01:00
 Event: BaseTradeTV Misc.	 Time: 02:00
@@ -273,32 +273,31 @@ Event: Proleague	 Time: 10:30
 Event: BaseTradeTV Misc.	 Time: 18:00
 Event: Underdogs	 Time: 18:00
 Event: The Gauntlet	 Time: 19:45
-Day: Monday - 29/Mar
+Day: Monday - 29/Jul
 
 Event: Tespa Collegiate Series	 Time: 01:00
 Event: SC2 Improve Team League	 Time: 18:00
-Day: Tuesday - 30/Mar
+Day: Tuesday - 30/Jul
 
 Event: Tespa Collegiate Series	 Time: 01:00
 Event: Afreeca Star Streak	 Time: 04:00
 Event: GSL Code S	 Time: 09:30
 Event: IEM	 Time: 11:00
 Event: Psy-eSports-League	 Time: 19:00
-Day: Wednesday - 31/Mar
+Day: Wednesday - 31/Jul
 
 Event: Road To Masters	 Time: 01:00
 Event: BaseTradeTV Misc.	 Time: 02:00
 Event: StarCraft II StarLeague	 Time: 09:00
 Event: IEM	 Time: 11:20
 Event: Go4SC2	 Time: 18:00
-Day: Thursday - 01/Apr
+Day: Thursday - 01/Aug
 
 Event: Rival StarCraft II League	 Time: 00:00
 Event: Road To Masters	 Time: 01:00
 Event: Afreeca Star Streak	 Time: 04:00
 Event: GSL Code S	 Time: 09:30
-Event: IEM	 Time: 11:30
-Day: Friday - 02/Apr
+Event: IEM	 Time: 11:15
+Day: Friday - 02/Aug
 
-Event: OlimoLeague	 Time: 13:00
-Event: Filthy NA Cup	 Time: 20:00
+Event: IEM	 Time: 11:20

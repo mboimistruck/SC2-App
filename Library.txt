@@ -1,7 +1,7 @@
-EST
-CET
+EDT
+CEST
 KST
-February 2016. All times are GMT (current time: 4:29 am).
+February 2016. All times are GMT (current time: 5:55 pm).
 Filter by:
 Saturday
 WCS Circuit Championship
@@ -1020,24 +1020,32 @@ Road To Masters
 Red Wolves vs Sons Of Light
 Afreeca Star Streak
 04:00
+Amateur vs Amateur2
+Amateur vs Amateur2
+Amateur vs Amateur2
+Amateur vs Amateur2
+Amateur vs Cham
 GSL Code S
 09:30
 Solar vs SpeeD
 Creator vs Classic
+Solar vs Classic
+SpeeD vs Creator
+Classic vs SpeeD
 IEM
-11:30
+11:15
 MaSa vs Snute
 Hydra vs Neeb
 Elazer vs iAsonu
 Polt vs FireCake
 HuK vs Nerchio
-viOLet vs TBD
-TBD vs TBD
+viOLet vs Snute
+Hydra vs Elazer
 Friday
-OlimoLeague
-13:00
-Filthy NA Cup
-20:00
+IEM
+11:20
+Polt vs Nerchio
+Polt vs Snute
 Selected Day
 23
 | | | | | Original banner artwork: The contents of this webpage are copyright © 2016 Team Liquid. All Rights Reserved.
